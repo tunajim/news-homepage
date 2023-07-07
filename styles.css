@@ -399,10 +399,6 @@ footer {
         max-width: 73rem;
     }
 
-    .hero-section button {
-        width: 35rem;
-        
-    }
 
     .new {
         width: 35rem;
@@ -443,4 +439,8 @@ footer {
         margin-top: 7.1rem;
     }
 
+    .button {
+        width: 18.5rem;
+        
+    }
 }
